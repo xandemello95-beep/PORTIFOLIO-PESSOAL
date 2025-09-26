@@ -9,21 +9,6 @@ Este repositório contém meu site pessoal, projetos, currículos e informaçõe
 
 Sou estudante de Engenharia de Software, apaixonado por tecnologia, programação e inovação. Busco constantemente aprender novas ferramentas e práticas do mercado de TI para desenvolver soluções criativas e eficientes.
 
----
-
-## 💻 Projetos
-
-1. **Sistema de Gestão de Vendas**  
-   Aplicação web para controle de estoque e vendas com integração em banco de dados.  
-   [Ver no GitHub](https://github.com/xandemello95)  
-
-2. **Portfólio Online**  
-   Desenvolvimento deste portfólio responsivo com HTML, CSS e JavaScript.  
-   [Ver no GitHub](https://github.com/xandemello95)  
-
-3. **Simulador de Segurança**  
-   Projeto acadêmico sobre boas práticas em segurança da informação.  
-   [Ver no GitHub](https://github.com/xandemello95)  
 
 ---
 
@@ -56,9 +41,6 @@ Sou estudante de Engenharia de Software, apaixonado por tecnologia, programaçã
 
 ## 🌐 Acesse o site online
 
-Você pode visualizar meu portfólio diretamente no navegador usando **GitHub Pages**:  
-(Se ainda não configurado, posso te mostrar o passo a passo.)
 
----
 
 **© 2025 Alexandre Melo**
